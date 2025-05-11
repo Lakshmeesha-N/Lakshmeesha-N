@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Python enthusiast 🐍 | Machine Learning 🤖 | Deep Learning 🧠 | Currently diving into Gen AI 🌊. When not coding, you can find me playing chess ♟️ or solving math problems ➗. Check out my GitHub for projects and collaborations! 🚀<br><br>
+<br>Python enthusiast 🐍 | Machine Learning 🤖 | Deep Learning 🧠 | Currently diving into Gen AI 🌊.. Check out my GitHub for projects and collaborations! 🚀<br><br>
 
 
 # 💻 Tech Stack:
